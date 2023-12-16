@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I am a student who enjoys programming as a hobby.<br/>
-My concept revolves around the motto of solving everyday life dissatisfactions through programming without incurring maintenance costs.<br/>
+My motto is to solve everyday life's frustrations through programming without incurring maintenance costs.<br/>
 Currently, I am primarily using TypeScript for development.
 
 #NodeJS #React #DiscordBot
