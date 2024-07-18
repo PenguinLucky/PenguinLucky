@@ -7,6 +7,8 @@ Currently, I am primarily using TypeScript for development.
 #NodeJS #React #DiscordBot
 
 ## About me
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenguinLucky&theme=github_dark)
+
 <picture>
   <source
     srcset="https://github-readme-stats.penguinlucky.vercel.app/api?username=PenguinLucky&show_icons=true&theme=dark"
@@ -30,3 +32,22 @@ Currently, I am primarily using TypeScript for development.
   />
   <img src="https://github-readme-stats.penguinlucky.vercel.app/api/top-langs/?username=PenguinLucky&layout=compact" />
 </picture>
+
+## Skils
+### Languages
+![](https://skillicons.dev/icons?i=typescript,nodejs,react,python,php)
+
+### Libraries
+![](https://skillicons.dev/icons?i=express,electron,discordjs,discord,bots,jquery)
+
+### Platform (Public Cloud / PaaS)
+![](https://skillicons.dev/icons?i=aws,gcp,cloudflare,heroku)
+
+### Database
+![](https://skillicons.dev/icons?i=mysql,postgres,supabase,sqlite)
+
+### Git (and CI / CD)
+![](https://skillicons.dev/icons?i=git,github,githubactions)
+
+### OS
+![](https://skillicons.dev/icons?i=windows,linux,ubuntu,bash)
