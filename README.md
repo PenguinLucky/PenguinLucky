@@ -35,7 +35,7 @@ Currently, I am primarily using TypeScript for development.
 
 ## Skils
 ### Languages
-![](https://skillicons.dev/icons?i=typescript,nodejs,react,python,php)
+![](https://skillicons.dev/icons?i=typescript,nodejs,react,androidstudio,kotlin,python,php)
 
 ### Libraries
 ![](https://skillicons.dev/icons?i=express,electron,discordjs,discord,bots,jquery)
