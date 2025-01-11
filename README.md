@@ -4,7 +4,7 @@ I am a student who enjoys programming as a hobby.<br/>
 My motto is to solve everyday life's frustrations through programming without incurring maintenance costs.<br/>
 Currently, I am primarily using TypeScript for development.
 
-#NodeJS #React #DiscordBot
+#NodeJS #React #DiscordBot #Kotlin #Swift
 
 ## About me
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PenguinLucky&theme=github_dark)
@@ -35,7 +35,7 @@ Currently, I am primarily using TypeScript for development.
 
 ## Skils
 ### Languages
-![](https://skillicons.dev/icons?i=typescript,nodejs,react,androidstudio,kotlin,python,php)
+![](https://skillicons.dev/icons?i=typescript,nodejs,react,androidstudio,kotlin,swift,python,php)
 
 ### Libraries
 ![](https://skillicons.dev/icons?i=express,electron,discordjs,discord,bots,jquery)
